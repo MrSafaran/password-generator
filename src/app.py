@@ -1,7 +1,7 @@
 import streamlit as st
 from password_generator import RandomPassword,PinCode,MemorablePassword
 
-# st.image("src/images/banner.jpeg", width = 600)
+st.image("src/image/download.png", width = 600)
 st.title(":lock: Password Generator")
 
 
